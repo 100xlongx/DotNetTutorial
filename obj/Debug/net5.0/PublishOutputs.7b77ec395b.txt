@@ -1,0 +1,6 @@
+C:\Users\Lntinfotech\galvanize\dotnettut\bin\Debug\net5.0\publish\dotnettut.exe
+C:\Users\Lntinfotech\galvanize\dotnettut\bin\Debug\net5.0\publish\dotnettut.dll
+C:\Users\Lntinfotech\galvanize\dotnettut\bin\Debug\net5.0\publish\dotnettut.deps.json
+C:\Users\Lntinfotech\galvanize\dotnettut\bin\Debug\net5.0\publish\dotnettut.runtimeconfig.json
+C:\Users\Lntinfotech\galvanize\dotnettut\bin\Debug\net5.0\publish\dotnettut.pdb
+C:\Users\Lntinfotech\galvanize\dotnettut\bin\Debug\net5.0\publish\Newtonsoft.Json.dll
